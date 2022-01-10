@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="31.371" height="32.113" viewBox="0 0 31.371 32.113">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_11" data-name="Clip 11" d="M0,31.66H30.921V0H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_18" data-name="그룹 18" transform="translate(-1200.775 -572.273)">
+    <g id="Components_Icon_App_mail" data-name="Components/Icon/App/mail" transform="translate(1201 572.5)">
+      <g id="Group_15" data-name="Group 15">
+        <path id="Stroke_1" data-name="Stroke 1" d="M.5,0V3.19" transform="translate(14.96 23.367)" fill="none" stroke="#252525" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.4"/>
+        <g id="Group_14" data-name="Group 14">
+          <path id="Stroke_2" data-name="Stroke 2" d="M4.646,2.315A2.323,2.323,0,1,1,2.323,0,2.318,2.318,0,0,1,4.646,2.315Z" transform="translate(13.137 26.556)" fill="none" stroke="#252525" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.4"/>
+          <path id="Stroke_4" data-name="Stroke 4" d="M0,.5H29.971" transform="translate(0.475 3.801)" fill="none" stroke="#252525" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.4"/>
+          <path id="Stroke_6" data-name="Stroke 6" d="M0,.5H29.971" transform="translate(0.475 21.301)" fill="none" stroke="#252525" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.4"/>
+          <path id="Stroke_8" data-name="Stroke 8" d="M0,3.849a3.863,3.863,0,0,1,7.726,0" transform="translate(11.597 0.473)" fill="none" stroke="#252525" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.4"/>
+          <path id="Clip_11-2" data-name="Clip 11" d="M0,31.66H30.921V0H0Z" fill="none"/>
+          <g id="Group_14-2" data-name="Group 14" clip-path="url(#clip-path)">
+            <path id="Stroke_10" data-name="Stroke 10" d="M0,17.5H24.54V0H0Z" transform="translate(3.191 4.301)" fill="none" stroke="#252525" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.4"/>
+            <path id="Stroke_12" data-name="Stroke 12" d="M12.84,0,10.834,2,8.512,4.314,4.49.306,0,4.781" transform="translate(7.338 12.269)" fill="none" stroke="#655da7" stroke-miterlimit="10" stroke-width="1.4"/>
+            <path id="Stroke_13" data-name="Stroke 13" d="M.29,2.04A.664.664,0,0,1,.617.825L3.55.043c.67-.179,1.071.221.892.889L3.656,3.855a.667.667,0,0,1-1.219.325Z" transform="translate(18.814 9.159)" fill="none" stroke="#655da7" stroke-miterlimit="10" stroke-width="1.4"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

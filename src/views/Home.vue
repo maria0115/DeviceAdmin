@@ -1,18 +1,23 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div class="wrap">
+    <form @submit.prevent="$event.preventDefault();">
+      <Header></Header>
+
+      <AppList></AppList>
+      <router-view></router-view>
+    </form>
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
-
+import AppList from "./appList.vue";
+import Header from "./header.vue";
 export default {
-  name: 'Home',
+  name: "Home",
   components: {
-    HelloWorld
-  }
-}
+    AppList,
+    Header,
+  },
+  created() {},
+};
 </script>
